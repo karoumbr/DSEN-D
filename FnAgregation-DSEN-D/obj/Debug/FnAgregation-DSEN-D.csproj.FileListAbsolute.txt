@@ -1,0 +1,11 @@
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\bin\Debug\FnAgregation-DSEN-D.exe.config
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\bin\Debug\FnAgregation-DSEN-D.exe
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\bin\Debug\FnAgregation-DSEN-D.pdb
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\obj\Debug\FnAgregation-DSEN-D.csprojAssemblyReference.cache
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\obj\Debug\FnAgregation_DSEN_D.Form1.resources
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\obj\Debug\FnAgregation_DSEN_D.Properties.Resources.resources
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\obj\Debug\FnAgregation-DSEN-D.csproj.GenerateResource.cache
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\obj\Debug\FnAgregation-DSEN-D.csproj.CoreCompileInputs.cache
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\obj\Debug\FnAgregation-DSEN-D.exe
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\obj\Debug\FnAgregation-DSEN-D.pdb
+C:\Users\karou\source\repos\FnAgregation-DSEN-D\FnAgregation-DSEN-D\obj\Debug\FnAgregation_DSEN_D.Form2.resources
